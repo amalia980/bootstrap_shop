@@ -19,8 +19,11 @@
     border-width: 1px;
 }
 
+.container {
+    margin: auto;
+}
+
 .card {
     margin: 0 2rem 2rem 0;
-    
 }
 
